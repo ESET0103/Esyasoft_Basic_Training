@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\dlms_get_request\\getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|solutionrelative:getrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\dlms_get_request\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\dlms_get_request\\obiscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E83D608E-D051-4C0C-BAB3-0F6F1590ECB6}|DLMS_get_request.csproj|solutionrelative:obiscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getrequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\getrequest.cs",
+              "RelativeDocumentMoniker": "getrequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\getrequest.cs",
+              "RelativeToolTip": "getrequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:12:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "obiscode.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\obiscode.cs",
+              "RelativeDocumentMoniker": "obiscode.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\obiscode.cs",
+              "RelativeToolTip": "obiscode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:10:51.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\DLMS_get_request\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:07:10.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
