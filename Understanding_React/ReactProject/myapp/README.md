@@ -15,4 +15,9 @@ Implementation ------>
 
     
 
-    
+
+18/09/25
+
+# useEffect()
+syntax 'useEffect(<function>,<[dependency]>)'
+-> used for lifecycle rendering
