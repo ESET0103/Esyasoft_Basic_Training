@@ -8,27 +8,18 @@ const Login = () => {
     const [password, setPassword] = useState("");
 
     const handleSubmit = (e) => {
-        // setFormData(...formData,{e.target.valueuserName,email,password})
-        //  setFormData({userName:e.target.value, email:e.target.value,password:e.target.value})
-        // console.log(formData)
 
-        if(e.target.value !== "mantu"){
+        if(userName === "mantu" && password ===  "123" && email === "mantu@gmail.com"){
             console.log(e.target.value)
-            alert("wrong person")
+            alert("Login Successfully...")
             return 
         }
-        if(e.target.value !== "123"){
-            alert("wrong password")
-            return
-        }
-        if(e.target.value !== "mantu@gmail.com"){
-            alert("wrong email")
-            return
-        }
+        else{
 
-        alert("login successfully")
-        return 
-
+          alert("wrong credentials ...")
+          return
+        }
+        
     }
 
   return (
