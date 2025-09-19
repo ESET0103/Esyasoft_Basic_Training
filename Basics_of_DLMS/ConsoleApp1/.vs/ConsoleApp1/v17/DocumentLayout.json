@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\consoleapp1\\obiscodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|solutionrelative:obiscodehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\consoleapp1\\meterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|solutionrelative:meterobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|c:\\users\\hp\\desktop\\esyasoft_basic_training\\basics_of_dlms\\consoleapp1\\get_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7326B42-4956-44B9-8E98-57D34FC4212F}|ConsoleApp1.csproj|solutionrelative:get_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:07:08.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObisCodeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\ObisCodeHelper.cs",
+              "RelativeDocumentMoniker": "ObisCodeHelper.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\ObisCodeHelper.cs",
+              "RelativeToolTip": "ObisCodeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:06:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeterObject.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\MeterObject.cs",
+              "RelativeDocumentMoniker": "MeterObject.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\MeterObject.cs",
+              "RelativeToolTip": "MeterObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:06:47.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Get_Set.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\Get_Set.cs",
+              "RelativeDocumentMoniker": "Get_Set.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Esyasoft_Basic_Training\\Basics_of_DLMS\\ConsoleApp1\\Get_Set.cs",
+              "RelativeToolTip": "Get_Set.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T07:06:30.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
