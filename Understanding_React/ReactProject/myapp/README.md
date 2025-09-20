@@ -21,3 +21,9 @@ Implementation ------>
 # useEffect()
 syntax 'useEffect(<function>,<[dependency]>)'
 -> used for lifecycle rendering
+
+
+
+
+
+

@@ -7,6 +7,8 @@ import Counter from "./Counter";
 import Login from "./Components/Login";
 import LoginForm from "./Components/Component1/LoginForm";
 import UseEffectComponent from "./Components/Component1/UseEffectComponent";
+import UseRefComponent from "./Components/Component1/UseRefComponent";
+import ParentComponent from "./Components/Component1/ParentComponent";
 
 function App(props) {
   return (
@@ -15,7 +17,9 @@ function App(props) {
      {/* <EventComponent/> */}
      {/* <Login/> */}
      {/* <LoginForm/> */}
-      <UseEffectComponent/>
+      {/* <UseEffectComponent/> */}
+      {/* <UseRefComponent/> */}
+      <ParentComponent/>
     </>
     
   );
